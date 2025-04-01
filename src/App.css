@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.todo-item{
+  display: flex;
+  margin-bottom: 8px;
+}
+.todo-item p {
+  color: palevioletred;
+
+}
